@@ -1,6 +1,22 @@
 *.class
 
 # Package Files #
-*.jar
+# *.jar
 *.war
 *.ear
+
+# NetBeans specific #
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+## generic files to ignore
+*~
+*.lock
+*.DS_Store
+*.swp
+*.out
