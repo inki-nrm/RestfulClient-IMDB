@@ -5,8 +5,14 @@
 *.war
 *.ear
 
-#netbeans ignore personal stuff
+# NetBeans specific #
 nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
 
 ## generic files to ignore
 *~
